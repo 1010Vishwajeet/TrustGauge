@@ -50,7 +50,6 @@ TrustGauge/
 ## ⚙️ Getting Started
 ### 1. Clone + Install
 ```bash
-git clone https://github.com/sunidhitandel/TrustGauge.git
 cd TrustGauge
 pip install -r requirements.txt
 ```
@@ -123,15 +122,3 @@ Includes TrustScore per product and company.
 | review_master        | Cleaned review data             |
 | product_scores       | Trust scores per product        |
 | master_trust_score   | Joined with brand-level scores  |
-
-
-
-## Authors
-
-- Sunidhi Tandel (sdt9243)
-- Srikar Samudrala (sms10353)
-- Parth Naik (pn2325)
-
-Course: CSGY 6513 - Big Data Analytics  
-Instructor: Prof. Amit Patel
-
